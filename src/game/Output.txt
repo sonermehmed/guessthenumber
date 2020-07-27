@@ -1,0 +1,21 @@
+The winner is: Ivan
+ Strategy:strategyFourth
+ Number of Attempets: 900
+ Time: 11
+ 
+ Name: Soner
+ Strategy:strategyFirst
+ Number of Attempets: 1231
+ Time: 11
+ 
+ Name: Miroslav
+ Strategy:strategySecond
+ Number of Attempets: 1143
+ Time: 11
+ 
+ Name: Georgi
+ Strategy:strategyThird
+ Number of Attempets: 1096
+ Time: 12
+ 
+
